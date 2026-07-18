@@ -30,7 +30,7 @@ assets:
   - {seq: 0, filename: KR6a0065_000.yaml, hash: 'sha256:be18d38cd423e6e94c05190c4a822d6582c09007ebc91cc6e3cf6b1a1c1cfc07'}
   - {seq: 1, filename: KR6a0065_001.yaml, hash: 'sha256:b657df5fcf502ab4749a401b4e1648bd0148ad909dd2356a149f510fec0c937a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0065_000.markers.yaml, hash: 'sha256:e4c6d973895198202beafba1b58d3d216d86fcb5788eeb3868d5a3ec5dc49875'}
+  - {seq: 0, role: markers, filename: assets/KR6a0065_000.markers.yaml, hash: 'sha256:5b23daad9833d4da54f60c9c2ef8e8cd71dd56f78dfd76c9ad3fdd2512b277cc'}
   - {seq: 1, role: markers, filename: assets/KR6a0065_001.markers.yaml, hash: 'sha256:43291ea9e10a73a5d38fd91dcdeece6f3b424c665b2e22ee16690b90385adbfe'}
 table_of_contents:
 - ref:
@@ -43,7 +43,7 @@ table_of_contents:
   label: 佛說伏婬經
   type: juan
   level: 1
-hash: sha256:4f26f2735f15042e39b9616538c8b421403076590dfeb413fc772cbb12b7f732
+hash: sha256:a87ff0be5dcd3d3aa12da9f0fe78d51ba3566dc39f2b02af867eebdcbb071e76
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
